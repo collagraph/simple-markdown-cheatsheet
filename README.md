@@ -1,7 +1,11 @@
 Simple Markdown Cheatsheet
 ==========================
 
-A simple cheat sheet for writing Markdown
+A simple cheat sheet for writing Markdown.
+
+> On the web, HTML is what your words are made of. How your words are interpreted depends upon the markup that accompanies them. As such, it’s important for people who care about the words to also care about the markup ... That said, HTML is designed to be readable by both humans and machines, and the latter requirement means it also tends towards the verbose. It’s a great tool for publishing, but a less-than-perfect one for authoring. That’s where Markdown comes in: recognizing that it’s important to author good HTML, Markdown proposes a shorthand to make authoring more comfortable.
+
+— [*Why markup (and Markdown) matter*, Editorially Team, March 2013](http://web.archive.org/web/20140213181907/http://stet.editorially.com/articles/why-markup-and-markdown-matter/)
 
 
 ```
@@ -28,9 +32,6 @@ This is a paragraph. It might have some *emphasised text* in it, or some **stron
 
 [This is some linked text](http://example.com "This is the link title.").
 
-And finally, an image:
-
-![This is the image caption.](http://collagraph.com.au/assets/portfolio/sceptical-climate/sceptical-climate–001.jpg)
 ```
 
 # Heading level one
@@ -51,7 +52,3 @@ This is a paragraph. It might have some *emphasised text* in it, or some **stron
     * a tabbed-in sub item.
 
 [This is some linked text](http://example.com "This is the link title.").
-
-And finally, an image:
-
-![This is the image caption.](http://collagraph.com.au/assets/portfolio/sceptical-climate/sceptical-climate–001.jpg "This is the image title.")
