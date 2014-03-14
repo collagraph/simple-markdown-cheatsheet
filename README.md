@@ -7,6 +7,7 @@ A simple cheat sheet for writing Markdown.
 
 — [*Why markup (and Markdown) matter*, Editorially Team, March 2013](http://web.archive.org/web/20140213181907/http://stet.editorially.com/articles/why-markup-and-markdown-matter/)
 
+## Text written in Markdown:
 
 ```
 # Heading level one
@@ -33,6 +34,8 @@ This is a paragraph. It might have some *emphasised text* in it, or some **stron
 [This is some linked text](http://example.com "This is the link title.").
 
 ```
+
+## Markdown rendered into nice HTML, displayed as regular text:
 
 # Heading level one
 ## Heading level two
