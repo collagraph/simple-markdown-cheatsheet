@@ -31,7 +31,7 @@ This is a paragraph. It might have some *emphasised text* in it, or some **stron
 2. another item; and
     * a tabbed-in sub item.
 
-[This is some linked text](http://example.com "This is the link title.").
+[This is some linked text](http://example.com "This is the title text, available on hover.").
 
 ```
 
@@ -54,4 +54,4 @@ This is a paragraph. It might have some *emphasised text* in it, or some **stron
 1. This is a numbered list item; 2. another item; and
     * a tabbed-in sub item.
 
-[This is some linked text](http://example.com "This is the link title.").
+[This is some linked text](http://example.com "This is the title text, available on hover.").
