@@ -24,7 +24,7 @@ This is a paragraph. It might have some *emphasised text* in it, or some **stron
 
 * This is a list item;
 * another item; and
-    * a tabbed-in sub item.
+    * a tabbed-in sub item, use 4 spaces or a tab.
 
 
 1. This is a numbered list item;
@@ -48,7 +48,7 @@ This is a paragraph. It might have some *emphasised text* in it, or some **stron
 
 * This is a list item;
 * another item; and
-    * a tabbed-in sub item.
+    * a tabbed-in sub item, use 4 spaces or a tab.
 
 
 1. This is a numbered list item; 2. another item; and
